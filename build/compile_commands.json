@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/0.learn/C++/vscode/l3/build",
+  "command": "D:\\ossw\\mingw64\\bin\\c++.exe -ID:/0.learn/C++/vscode/l3/include -g -o CMakeFiles\\soldier_cmake.dir\\main.cpp.obj -c D:\\0.learn\\C++\\vscode\\l3\\main.cpp",
+  "file": "D:\\0.learn\\C++\\vscode\\l3\\main.cpp"
+},
+{
+  "directory": "D:/0.learn/C++/vscode/l3/build",
+  "command": "D:\\ossw\\mingw64\\bin\\c++.exe -ID:/0.learn/C++/vscode/l3/include -g -o CMakeFiles\\soldier_cmake.dir\\src\\Gun.cpp.obj -c D:\\0.learn\\C++\\vscode\\l3\\src\\Gun.cpp",
+  "file": "D:\\0.learn\\C++\\vscode\\l3\\src\\Gun.cpp"
+},
+{
+  "directory": "D:/0.learn/C++/vscode/l3/build",
+  "command": "D:\\ossw\\mingw64\\bin\\c++.exe -ID:/0.learn/C++/vscode/l3/include -g -o CMakeFiles\\soldier_cmake.dir\\src\\Soldier.cpp.obj -c D:\\0.learn\\C++\\vscode\\l3\\src\\Soldier.cpp",
+  "file": "D:\\0.learn\\C++\\vscode\\l3\\src\\Soldier.cpp"
+}
+]

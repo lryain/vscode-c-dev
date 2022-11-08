@@ -1,0 +1,5 @@
+# ninja log v5
+5	322	6895363110061849	CMakeFiles/soldier_cmake.dir/main.cpp.obj	42069c0e3dc8a76
+8	378	6895363110331118	CMakeFiles/soldier_cmake.dir/src/Soldier.cpp.obj	647290aa951b9916
+1	443	6895363111308515	CMakeFiles/soldier_cmake.dir/src/Gun.cpp.obj	7672e122dd4fdf18
+444	596	6895363112784566	soldier_cmake.exe	f23146ab8fb0832b
